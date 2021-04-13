@@ -4,4 +4,4 @@
 
     _Authors: [Tazeem Khan](https://github.com/TazeemKhan9), [Shubh Lilani](https://github.com/shubh17204)_
     
-2. 
+2. [SMS Spam Detection](https://github.com/kritikseth/NLP-College-Sem-VI/blob/main/NLP_Assignment_1.ipynb)
